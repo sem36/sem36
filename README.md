@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sem36
 - 👀 I’m interested in Python and Unity
-- 🌱 I’m currently learning  in school and studying python 
+- 🌱 I’m currently learning  in university and studying python 
